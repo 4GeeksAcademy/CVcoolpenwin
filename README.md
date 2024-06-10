@@ -1,126 +1,132 @@
 <!--hide-->
-# Build Your Full Stack Developer Resume
-<!--endhide--> 
+# Crea tu currículum de desarrollador Full Stack / Data Scientist
+<!--endhide-->
 
-The resume is by far the most important document that you need when applying for jobs. It's the primary way to showcase your skills and experience. Although you might already have a regular resume, it is important to tailor it to a full stack developer position and highlight your technical skills and key aspects of your qualifications. Bear in mind that even if you do not have a background in tech, there are plenty of transferable skills that can be showcased within your resume. A good resume will help you stand out from the competition and ultimately help you land interviews. 
+El currículum es, por mucho, el documento más importante que necesitas al solicitar un trabajo. Es la forma principal de mostrar tus habilidades y experiencia. Aunque es posible que ya tengas un currículum regular, es importante adaptarlo a un puesto de desarrollador de Full Stack y resaltar tus habilidades técnicas y los aspectos clave de tus calificaciones. Ten en cuenta que incluso si no tienes experiencia en tecnología, hay muchas habilidades transferibles que se pueden mostrar en tu currículum. Un buen currículum te ayudará a destacarte de la competencia y, en última instancia, te ayudará a conseguir entrevistas. 
 
-## 📝 Instructions to build your resume
+## 📝 Instrucciones para construir tu currículum
 
-Please read carefully the following task list and mark the checkboxes as you complete:
+Lee atentamente la siguiente lista de tareas y marca las casillas de verificación a medida que las completes:
 
-- [ ] Read the [Resume section](https://4geeksacademy.notion.site/Resume-CV-0d1ebbae7a6041aebcbacf5c8fd5c141) of the GeekForce page.
+- [ ] Lee la [sección de currículum](https://4geeksacademy.notion.site/Resume-CV-0d1ebbae7a6041aebcbacf5c8fd5c141) de la página de GeekForce.
 
-- [ ] Check these  [2 resume templates ](https://4geeksacademy.notion.site/Resume-Templates-CV-Templates-7e72180d5f274276b7ee5614b1df86a2).
+- [ ] Verifica estas [2 plantillas de currículum](https://4geeksacademy.notion.site/Resume-Templates-CV-Templates-7e72180d5f274276b7ee5614b1df86a2).
 
-- [ ] Get into  [flowcv.io](https://app.flowcv.com/), create an account. Make sure to save your username and password.
+- [ ] Entra en [flowcv.io](https://app.flowcv.com/), crea una cuenta. Asegúrate de guardar tu nombre de usuario y contraseña.
+ 
+- [ ] Lee atentamente [esta lección](https://4geeks.com/es/lesson/making-an-amazing-resume-es) y comienza a crear tu currículum aplicando las recomendaciones.
 
-- [ ] Carefully read [this lesson](https://content.breatheco.de/en/lesson/making-an-amazing-resume) and start building your resume by applying the recommendations.
+### Diseño
 
-### Layout
+- [ ] El diseño debe ser legible de arriba a abajo, SIN columnas.
 
-- [ ] The layout should be readable from top to bottom, with NO columns.
+- [ ] 1 página como máximo (evita el desorden y agregar información no relevante).
 
-- [ ] 1 page max (avoid clutter and adding nonrelevant information).
+- [ ] SIN colores: el currículum debe ser en blanco y negro. Si eres del campus de **Chile**, puedes agregar algúnos colores.
 
-- [ ] NO colors: the resume should be black & white.
+- [ ] Es preferible que no coloques foto.
 
-- [ ] NO headshot.
+### Fuente
 
-### Font
+- [ ] Arial, Times New Roman o Calibri (12). Karla, Muli o Amiri (Flow CV / EnhanceCV)
 
-- [ ] Arial, Times New Roman or Calibri (12). Karla, Muli or Amiri (Flow CV).
-
-- [ ] Names and titles can be larger.
-
-- [ ] Margins.
-
-### Contact Section
-
-- [ ] **Full name in the top center of the page** - Add your name and last name.
-
-- [ ] **Job Title: Software Developer** - Add it below or at the side of your name.
-  
-- [ ] **Address** - Add the country, and the state you live in (no more than this).
-
-- [ ] **Github Link**.
-
-- [ ] **LinkedIn Link** (you can customize your LinkedIn URL, check how to do it  [here](https://www.linkedin.com/help/linkedin/answer/a542685/manage-your-public-profile-url?lang=en) ).
-
-- [ ] **Email** (avoid non-professional email addresses).
-
-- [ ] **Phone number**.
-
-### Profile 
-
-- [ ] **Describe yourself briefly** - No longer than 4 sentences. Talk about who you are, your skills and what you can do with those skills. Treat the“profile” section as a pitch about yourself, remember you are a Software Developer.
-
-- [ ] **Describe your background briefly** - What are you interested in, your previous experience?
-
-- [ ] **Skills** - Mention the technologies you know and describe what you can do with that knowledge briefly. 
-
-### Projects
-
-- [ ] **Project title** Example: JobBots, Job Search App.
-
-- [ ] **Time frame** 
-* Mention the years or months you worked on that project.
-* Add the years or months you were employed at the company.
-
-- [ ] **Brief description** of what the project is about, what you did, and the functionalities.
-
-- [ ] Mention de **main technologies** - you used to build the project.
-
-- [ ] If possible, **add the link** so recruiters can check out the project directly.
-
-### Professional experience
-
-- [ ] **From earliest to oldest** - Mention your work experience from earliest to oldest (no more than 3).
-
-- [ ] **Job title** - Name the position you had and the name of the company.
-
-> _Example: Teacher Assistant - 4Geeks Academy_
-
-- [ ] **Job Duties**
-
-* Mention your job duties in bullet points.
-
-* Describe what you did briefly so recruiters have an idea of what you can do.
-
-* At least mention two measurable impacts or accomplishments per role: Focus more on the metrics that you improve and less on the responsibilities of your role.
-
-* Try to keep bullets to 1 to 2 lines long.
-
-* Most impactful bullets first for each job.
-
- **If you were promoted**
-
-- [ ] Add the job position you were promoted to and the main duties.
-
-### Education 
-
-- [ ] Degree 
-* Name of the institution.
-* Mention the type of degree you got (associate, bachelor, etc) and the name of the institution.
-
-- [ ] Add relevant courses (algebra, mathematics, computer science).
-
-- [ ] Add the certified courses you have done (Ex: SCRUM Master).
-
-- [ ] If you took advanced courses related to tech, you can mention them.
-
-- [ ] **Time frame** - Add the start and end date of your degree.
+- [ ] El nombre y los títulos pueden ser más grandes. 
 
 
-### Technologies
+### Información de Contacto
 
-- [ ] Mention the programming languages, technologies, and tools you know.
+- [ ] **Nombre en la parte superior central de la página** - Agrega tu nombre y apellido.
 
-- [ ] When you add the technologies in the Skills section, add them in different entries. 
+- [ ] **Título del trabajo: Full Stack Developer / Data Scientist** Agrégalo debajo o al lado de tu nombre.
 
-### Languages 
+- [ ] **Dirección** Agrega la ciudad y el país en el que vives. Si eres del campus de **Chile**, no agregues tu dirección.
 
-- [ ] **Add the languages you speak**
+- [ ] **Link de Github**.
 
-> _Example: English - Native_
-> _Example: Spanish - Fluent_
-> _Example: German - Basic_
+- [ ] **LinkedIn Link** (personaliza tu URL de LinkedIn, consulta cómo hacerlo [aquí](https://www.linkedin.com/help/linkedin/answer/a542685/manage-your-public-profile-url?lang=en) )  
+
+- [ ] **Correo electrónico** (evita direcciones de correo electrónico no profesionales).
+
+- [ ] **Número Telefónico**.
+
+### Perfil
+
+- [ ] **Descríbete brevemente** - No más de 4 oraciones. Habla sobre quién eres, tus habilidades y lo que puedes hacer con esas habilidades, experiencias y proyectos. Trata la sección de "perfil" como un discurso sobre ti, como si fuera un pitch de ventas, recuerda que eres un Desarrollador de Software. **Escribe este perfil en tercera persona.**
+      
+> _Ejemplo: Desarrollador full-stack motivado e ingenioso con pasión por crear aplicaciones web centradas en el usuario. Experiencia en JavaScript, React, SQL-Alchemy, y SCRUM para navegar por las complejidades del desarrollo de software moderno. Con mi interés por el aprendizaje continuo y dedicación a la calidad, soy un activo valioso para cualquier equipo en busca de soluciones de software innovadoras._
+
+> _Ejemplo: Científico de datos entusiasta con gran interés en la utilización de la tecnología para innovar y aumentar la eficiencia. Hábil en análisis de datos, automatización con Python, y SQL, análisis estadísticos, con un historial probado de éxito tanto en entornos educativos como técnicos._
+
+### Tecnologías
+
+- [ ] Menciona los lenguajes de programación, las tecnologías y las herramientas que conoces.
+      
+### Proyectos
+
+Es recomendable colocar al menos 2 proyectos. Uno de los proyectos puede ser el proyecto final de 4Geeks. 
+
+- [ ] **Título del proyecto** - Ejemplo: JobBots, aplicación de búsqueda de empleo.
+
+- [ ] **Periodo de tiempo**
+* Menciona el año en el trabajaste en este proyecto
+
+- [ ] **Breve descripción** de qué se trata el proyecto, qué hiciste y las funcionalidades.
+
+- [ ] Mención de las **principales tecnologías** que utilizaste para construir el proyecto.
+
+- [ ] **Agrega el enlace para que los reclutadores puedan ver el proyecto directamente.**
+
+
+### Experiencia profesional
+
+- [ ] **De más reciente a más antiguo** - Menciona tu experiencia laboral de lo más nuevo a lo más antiguo (no más de 3).
+
+- [ ] **Cargo** - Nombra el cargo que tuviste y el nombre de la empresa.
+
+> _Ejemplo: Asistente de profesor - 4Geeks Academy_
+
+- [ ] **Deberes de trabajo**
+
+* Menciona tus deberes laborales en 3-5 viñetas o bulletpoint.
+
+* Describe brevemente lo que hiciste para que los reclutadores tengan una idea de lo que puedes hacer.
+
+* Menciona al menos dos impactos o logros medibles por función: concéntrate más en las métricas que mejoraste y menos en las responsabilidades de tu función.
+
+* Trata de mantener las viñetas de 1 a 2 líneas de largo.
+
+* Las viñetas más impactantes primero para cada trabajo.
+
+ **Si te ascendieron**
+
+- [ ] Añade el puesto de trabajo al que te ascendieron y las funciones principales.
+
+### Educación 
+
+- [ ] **Título** - Nombre de la institución
+
+* Menciona el tipo de título que obtuviste (asociado, licenciatura, etc.) y el nombre de la institución.
+
+- [ ] **Periodo de Tiempo** - Añade la fecha de inicio y finalización de tu carrera.
+
+- [ ] **Certificaciones**
+
+* Agrega los cursos certificados que hayas realizado (Ej: SCRUM Master).
+
+- [ ] Si tomaste cursos avanzados relacionados con la tecnología, puedes mencionarlos.
+
+- [ ] **Período de tiempo** - Agrega la fecha de inicio y finalización de tu carrera.
+
+
+- [ ] Cuando agregues las tecnologías en la sección habilidades, agrégalas en diferentes entradas o viñetas.
+
+### Idiomas
+
+- [ ] **Añade el idioma que hablas**
+
+Si tienes dudas sobre tu nivel de inglés puedes hacer este [test](https://www.efset.org/ef-set-50/).
+
+> _Ejemplo: Inglés - Nativo_
+> _Ejemplo: Español - Fluido_
+> _Ejemplo: Alemán - Intermedio_
+> _Ejemplo: Portugués - Básico_
